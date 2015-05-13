@@ -1,2 +1,3 @@
-# CpuMemoryMonitor
-C#
+# CPU and Memory Monitor
+
+C# console application
