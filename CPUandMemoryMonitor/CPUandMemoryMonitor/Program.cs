@@ -48,6 +48,7 @@ namespace CPUandMemoryMonitor
                 //Varje sekund visas CPU användingen i procent
                 Console.WriteLine("CPU användning: {0}%", (int)currentCpuValue);
                 Console.WriteLine("Tillgänligt minne: {0}MB", (int)currentMemoryValue);
+                
 
                 if (currentCpuValue > 50)
                 {
@@ -71,6 +72,7 @@ namespace CPUandMemoryMonitor
                 }
 
                 Thread.Sleep(1000);
+                Console.Clear();
             }
         }
     }

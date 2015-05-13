@@ -4,3 +4,13 @@ C:\Users\Peter\OneDrive\Projekt\C#\CPUandMemoryMonitor\CPUandMemoryMonitor\bin\D
 C:\Users\Peter\OneDrive\Projekt\C#\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.csprojResolveAssemblyReference.cache
 C:\Users\Peter\OneDrive\Projekt\C#\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.exe
 C:\Users\Peter\OneDrive\Projekt\C#\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.pdb
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\bin\Debug\CPUandMemoryMonitor.exe.config
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.exe
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.pdb
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\bin\Debug\CPUandMemoryMonitor.exe
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\bin\Debug\CPUandMemoryMonitor.pdb
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\bin\Debug\CPUandMemoryMonitor.exe.manifest
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\bin\Debug\CPUandMemoryMonitor.application
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.exe.manifest
+C:\Users\Peter\OneDrive\Projekt\C#\CpuMemoryMonitor\CPUandMemoryMonitor\CPUandMemoryMonitor\obj\Debug\CPUandMemoryMonitor.application
